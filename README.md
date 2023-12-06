@@ -46,21 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/podeveloper/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@yasinkorkmaz.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="35" height="25" alt="medium logo"  />
-  </a>
-  <a href="https://instagram.com/ayasinkorkmaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:yasinkorkmaz.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 
 <p align="left">
