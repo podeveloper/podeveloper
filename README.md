@@ -54,7 +54,21 @@
 
 ###
 
-<p align="left">There is no one confused here; instead, someone who is:<br><br>- A developer<br>- A language learner (Python, Golan)<br>- A documentation reading monster<br>- A documentation making monster<br>- A task killer (sometimes project killer)<br><br>- A poet<br>- A human rights activist<br>- A Turkish, English, Persian, Arabic Speaker (Hebrew is loading)<br><br>- A Search and Rescue Team Volunteer<br>- A professional tour guide<br>- A motocycle Rider<br>- An amateur radio operator<br>- An amateur paraglider</p>
+<p align="left">
+  **There is no one confused here; instead, someone who is:**<br><br>
+  - A developer<br>
+  - A language learner **(Python, Golang)**<br>
+  - A documentation reading monster<br>
+  - A documentation making monster<br>
+  - A task killer (sometimes project killer)<br><br>
+  
+  - A poet<br>- A human rights activist<br>
+  - A Turkish, English, Persian, Arabic Speaker **(Hebrew is loading)**<br><br>
+  - A Search and Rescue Team Volunteer<br>
+  - A professional tour guide<br>
+  - A motocycle Rider<br>
+  - An amateur radio operator<br>
+  - An amateur paraglider</p>
 
 ###
 
