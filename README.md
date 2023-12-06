@@ -89,10 +89,6 @@
 
 ###
 
-<img align="left" height="1" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c80e3057-b27f-47a7-b990-90cfdfc6f9cc/dbvpmpj-7ea74157-26cf-4a60-b127-a6967b17debf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4MGUzMDU3LWIyN2YtNDdhNy1iOTkwLTkwY2ZkZmM2ZjljY1wvZGJ2cG1wai03ZWE3NDE1Ny0yNmNmLTRhNjAtYjEyNy1hNjk2N2IxN2RlYmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._5apJt2CLfaMyHRmMGmDxoj_R9HijvO7P5zCknnTyV0"  />
-
-###
-
 <img align="left" height="150" src="https://media.tenor.com/IwBNL4-A9PcAAAAC/w0zml-icom.gif"  />
 
 ###
