@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=podeveloper&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=podeveloper.podeveloper&"  />
+  <img src="https://streak-stats.demolab.com?user=podeveloper&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -14,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -116,13 +110,13 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/sura.webp?=5_12_2023"  />
+  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/slipper-clutch.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/slipper-clutch.gif"  />
+  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/sura.webp?=5_12_2023"  />
 </div>
 
 ###
