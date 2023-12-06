@@ -87,14 +87,38 @@
   <img height="300" src="https://www.azquotes.com/picture-quotes/quote-follow-your-dreams-believe-in-yourself-and-don-t-give-up-rachel-corrie-6-50-79.jpg"  />
 </div>
 
-<img align="left" height="150" src="https://media.tenor.com/IwBNL4-A9PcAAAAC/w0zml-icom.gif" style="margin-right: 10px;" />
+###
 
-<img align="left" height="150" src="https://i0.wp.com/the-avocado.org/wp-content/uploads/2018/04/tumblr_nmhbtuuhqi1sonf30o1_400.gif?resize=300%2C232&ssl=1" style="margin-right: 10px;" />
+<br clear="both">
 
-<img align="left" height="150" src="https://www.brgprecision.com/phpinclude/tzg/photos/GTZH_gifannimation_600pixels.gif" style="margin-right: 10px;" />
+<div align="center">
+  <img height="150" src="https://www.brgprecision.com/phpinclude/tzg/photos/GTZH_gifannimation_600pixels.gif"  />
+</div>
 
-<img align="left" height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/sura.webp?=5_12_2023" style="margin-right: 10px;" />
+###
 
-<img align="left" height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/slipper-clutch.gif?=5_12_2023" style="margin-right: 10px;" />
+<img align="left" height="150" src="https://media.tenor.com/IwBNL4-A9PcAAAAC/w0zml-icom.gif"  />
 
-<img align="left" height="150" src="https://ia902506.us.archive.org/12/items/morse-code-made-easy/morse-code-made-easy_screenshot.gif" style="margin-right: 10px;" />
+###
+
+<img align="left" height="150" src="https://i0.wp.com/the-avocado.org/wp-content/uploads/2018/04/tumblr_nmhbtuuhqi1sonf30o1_400.gif?resize=300%2C232&ssl=1"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/sura.webp?=5_12_2023"  />
+
+###
+
+<img align="left" height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/slipper-clutch.gif?=5_12_2023"  />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://ia902506.us.archive.org/12/items/morse-code-made-easy/morse-code-made-easy_screenshot.gif"  />
+</div>
+
+###
