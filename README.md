@@ -68,7 +68,7 @@
 ###
 
 <p align="left">
-<strong>There is no one confused here;</strong> instead, there is a developer, a language learner **(Python, Golang)**, a documentation maker, a poet, a human rights activist, a Turkish, English, Persian, Arabic Speaker **(Hebrew is loading)**, a Search and Rescue Team Volunteer, a professional tour guide, a motocycle Rider, an amateur radio operator, an amateur paraglider
+<strong>There is no one confused here;</strong> instead, there is a developer, <strong>a language learner (Python, Golang)</strong>, a documentation maker, <strong>a poet</strong>, a Turkish, English, Persian, Arabic Speaker (Hebrew is loading), <strong>a human rights activist</strong>, a Search and Rescue Team Volunteer, <strong>a professional tour guide,</strong> a motocycle Rider, <strong>an amateur radio operator,</strong> an amateur paraglider.
 </p>
 
 <br clear="both">
