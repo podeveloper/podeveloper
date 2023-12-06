@@ -2,9 +2,7 @@
   <img src="https://streak-stats.demolab.com?user=podeveloper&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-###
+<br><br>
 
 <h3 align="center">🛠 Language and tools</h3>
 
@@ -50,9 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
-
-###
+<br><br>
 
 <h3 align="center">Full-time Poet<br>Part-time Back-end Developer</h3>
 
