@@ -116,13 +116,13 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/slipper-clutch.gif"  />
+  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/sura.webp?=5_12_2023"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/sura.webp?=5_12_2023"  />
+  <img height="150" src="https://www.tvsmotor.com/assets/img/brands/apche-rr310/live/slipper-clutch.gif"  />
 </div>
 
 ###
