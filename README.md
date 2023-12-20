@@ -55,7 +55,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://www.azquotes.com/picture-quotes/quote-follow-your-dreams-believe-in-yourself-and-don-t-give-up-rachel-corrie-6-50-79.jpg"  />
+  <img height="200" src="https://www.azquotes.com/picture-quotes/quote-follow-your-dreams-believe-in-yourself-and-don-t-give-up-rachel-corrie-6-50-79.jpg"  />
 </div>
 
 ###
