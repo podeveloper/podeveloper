@@ -1,12 +1,7 @@
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=podeveloper&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph" />
-
-  <h3>There is no one confused here.</h3>
-  
   <p>
-    Developer • Documentation Maker • Language Learner (Python, Golang)<br>
-    <i>Turkish, English, Persian, Arabic</i>
+    Developer • Language Learner (Python, Golang)<br>
   </p>
 
   <p>
