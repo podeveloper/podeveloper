@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Analyst Developer & Senior Back-end Specialist</h2>
+  <h2>Analyst Developer & Back-end Specialist</h2>
   
   <p>
     6+ years of experience in PHP & Laravel ecosystem.<br>
